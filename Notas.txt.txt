@@ -1,0 +1,23 @@
+Carrito de compras 
+
+1.,Torillas
+
+2.,pan bimbo
+
+3.,coca-cola
+
+4.,Atun
+
+5.,Aguacates
+
+6.,Tomates
+
+7.,Chiles 
+
+8.,Cebollas 
+
+9.,Botellas de agua
+
+10.,Jamon
+
+11.,Mayonesa
